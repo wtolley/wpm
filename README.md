@@ -94,4 +94,12 @@ Once installed, you can use the `wpm` command as follows:
     ```
   This command lists all saved waypoints and their corresponding directories.
 
+- **Remove a Waypoint:**
+    ```bash
+    wpm rm <waypoint_name>
+    # or
+    wpm remove <waypoint_name>
+    ```
+  This command removes the associated waypoint.
+  
 ---
